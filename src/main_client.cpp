@@ -1,7 +1,7 @@
 #include <Client.h>
 
 int main() {
-    Client client; // Create a client object
+    Client client;
     client.show_Menu();
     return 0;
 }
